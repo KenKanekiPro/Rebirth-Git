@@ -1,3 +1,3 @@
 # ⚡
 
-rebirth coming back {• • •}
+rebirth coming back . . . 
