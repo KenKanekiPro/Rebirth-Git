@@ -1,5 +1,5 @@
-# ⚡ RebirthGit
-- - - - - - - - - - - - - - - - - - - - - - - 
+Rebirth-Git
+
 <details>
   <summary>about</summary>
  
