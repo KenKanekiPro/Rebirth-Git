@@ -5,8 +5,6 @@
 
 - [Takly](#takly)
 - [Vasl](#vasl)
-- 
-- 
 
 ---
 ## [Takly](https://takly.ir)
