@@ -12,7 +12,7 @@
 - 
 
 ---
-## HxLab ๏ [Open](Hxlab.ir)
+## HxLab ๏ [Open](www.Hxlab.ir)
 
 ๏ [Open](Hxlab.ir)
 
@@ -28,7 +28,7 @@
 - داکیومنت های تخصصی متنوع 
 - ارزش امتحان کردن داره
 ---
-## DevNeeds ๏ [Open](devneeds.ir)
+## DevNeeds ๏ [Open](http/:devneeds.ir)
 
 ๏ [Open](devneeds.ir)
 
