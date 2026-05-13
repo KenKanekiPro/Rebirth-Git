@@ -11,7 +11,8 @@
 
   [Open Link](http://hxlab.ir)
 
-  
+  <details>
+    
   <details>
   <summary>Talky</summary>
   
