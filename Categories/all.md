@@ -8,9 +8,8 @@
 ---
 <details>
   <summary>Talky</summary>
----
   
-[open](http://takly.ir)
+[Open Link](http://takly.ir)
 
 ---
   به قول خودشون "مجموعه‌ای از برنامه‌های کار راه بنداز"
