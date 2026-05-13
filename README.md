@@ -59,13 +59,13 @@
 
 محتوای این ریپو به مرور توی دسته‌های مختلف قرار می‌گیره و می‌تونید از اینجا بهشون دسترسی داشته باشید :
 
-- **Communication**
-- **Privacy & Security**
+- [**Communication**](./Categories/communication.md)
+- [**Privacy & Security**](./Categories/privacy.md)
 - [**Useful Websites**](./Categories/useful-websites.md)
-- **Software**
-- **Repositories**
-- **Everyday Tools**
-- **Misc**
+- [**Software**](./Categories/software.md)
+- [**Repositories**](./Categories/repositories.md)
+- [**Daily Tools**](./Categories/daily-tools.md)
+- [**Misc**](./Categories/misc.md)
 
 ---
 
