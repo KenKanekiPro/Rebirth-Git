@@ -12,9 +12,7 @@
 - 
 
 ---
-## HxLab ๏ [Open](www.Hxlab.ir)
-
-๏ [Open](Hxlab.ir)
+## [HxLab](https://Hxlab.ir)
 
 ### What it does 📝
 
