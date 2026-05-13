@@ -10,7 +10,7 @@
 
 ---
 ## [Takly](https://takly.ir)
-
+<a name="takly"></a>
 ### What it does 📝
 
 
@@ -21,8 +21,8 @@
 
 --- 
 
-{Vasl}(https://vasl.fun)
-
+## [Vasl](https://vasl.fun)
+<a name="vasl"></a>
 ### What it does 📝
 
 
