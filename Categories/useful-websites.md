@@ -26,9 +26,7 @@
 - داکیومنت های تخصصی متنوع 
 - ارزش امتحان کردن داره
 ---
-## DevNeeds ๏ [Open](https://devneeds.ir)
-
-๏ [Open](devneeds.ir)
+## [DevNeeds](https://devneeds.ir)
 
 ### What it does 📝
 
