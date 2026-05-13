@@ -1,5 +1,5 @@
 ## Communication 💬
-> Let’s talk! Here are some cool sites and tools to help you connect and chat with others, for work or just for fun !
+> Let’s talk ! Here are some cool sites and tools to help you connect and chat with others, for work or just for fun !
 
 ## What’s Inside 𖣂 
 
