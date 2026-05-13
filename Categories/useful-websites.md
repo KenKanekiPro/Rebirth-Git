@@ -3,10 +3,10 @@
 > A few websites that actually came in handy.
 
 ---
-## What’s Inside
+## What’s Inside 𖣂 
 
-- [HxLab](##Hxlab-)
-- [DevNeeds](##DevNeeds-)
+- [HxLab](#Hxlab-)
+- [DevNeeds](#DevNeeds-)
 - 
 - 
 - 
