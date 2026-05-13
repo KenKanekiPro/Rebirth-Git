@@ -7,10 +7,6 @@
 
 - [HxLab](#hxlab)
 - [DevNeeds](#dev)
-- 
-- 
-- 
-
 ---
 ## [HxLab](https://Hxlab.ir)
 <a name="hxlab"></a>
