@@ -61,7 +61,7 @@
 
 - **Communication**
 - **Privacy & Security**
-- [Useful Websites](./Categories/useful-websites.md)
+- [**Useful Websites**](./Categories/useful-websites.md)
 - **Software**
 - **Repositories**
 - **Everyday Tools**
