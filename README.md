@@ -64,7 +64,7 @@
 - [**Useful Websites**](./Categories/useful-websites.md)
 - [**Software**](./Categories/software.md)
 - [**Repositories**](./Categories/repositories.md)
-- [**Daily Tools**](./Categories/daily-tools.md)
+- [**Everyday Tools**](./Categories/everyday-tools.md)
 - [**Misc**](./Categories/misc.md)
 
 ---
